@@ -1,0 +1,40 @@
+body{
+background-color:#166CF5;
+  text-align:center
+  
+}
+
+p{
+  color:white;
+  border:4px solid red
+}
+h1{
+  color:#5CDE14
+}
+#bob{
+  color:#E0CD10
+}
+#patrick{
+  color:pink
+}
+#Lula{
+  color:#A0ACEB
+}
+#siri{
+  color:#EA2C16
+}
+#Pl{
+  color:#00E0A6
+}
+#Ka{
+  color:gray
+}
+a{
+  text-decoration:none;
+    color:white;
+  border-style:solid;
+    border-color:orange;
+      padding:10px;
+  border-radius:5px;
+    background-color:purple
+}
